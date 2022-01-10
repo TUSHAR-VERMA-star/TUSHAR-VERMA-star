@@ -9,9 +9,8 @@
 
 ### Connect with me:
 
-<img align="left"  width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" href="https://www.linkedin.com/in/tusharverma96727214/" />
-<img align="left" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/1200px-Linkedin.svg.png" href="https://www.instagram.com/tushar.verma.524596/" />
-<img align="left" width="22px" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gmail.max-1100x1100.png" href="tushatverma1510@gmail.com" />
+<a href="https://www.linkedin.com/in/tusharverma96727214/"><img align="left"  width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png"  ></a>
+<a href="https://www.instagram.com/tushar.verma.524596/"><img align="left" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/1200px-Linkedin.svg.png"  ></a>
 
 <br />
 
@@ -27,4 +26,5 @@
 <img align="left" alt="Python" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/640px-Python-logo-notext.svg.png" />
 <img align="left" alt="c++" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" />
 <img align="left" alt="Linux" width="36px" src="https://ih1.redbubble.net/image.300807782.2918/flat,750x1000,075,f.jpg" />
+<img align="left" alt="Django" width="36px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKq9znUjt0KQXGe3MAF6cr2AGiEF_yCqpH9Q&usqp=CAU" />
 
