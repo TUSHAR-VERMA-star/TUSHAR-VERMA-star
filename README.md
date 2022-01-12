@@ -32,11 +32,11 @@
 <br>
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TUSHAR-VERMA-star&layout=compact&show_icons=true&theme=radical)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TUSHAR-VERMA-star&layout=compact&show_icons=true&theme=radical)
 
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TUSHAR-VERMA-star&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TUSHAR-VERMA-star&show_icons=true&theme=radical) -->
 
 
 # ![](https://komarev.com/ghpvc/?username=TUSHAR-VERMA-star&label=PROFILE+VIEWS&font_size=200px&color=grey)
