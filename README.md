@@ -4,7 +4,7 @@
 ## I LOVE ... !!
 
 - I’m passionate about Web Development , Programming , Database Management , Artificial Intelligence and almost all different Tech
-- 2022 Goals: Contribute more to Open Source projects
+- 2023 Goals: Contribute more to Open Source projects
 - Fun fact: I love to do beatbox 
 
 ### Connect with me:
